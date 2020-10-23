@@ -1,3 +1,5 @@
+# Python program to find the second largest number in a list
+
 # Method 1 
 lst = []
 num = int(input("Enter the Number of elements for the List: "))
