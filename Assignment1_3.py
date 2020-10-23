@@ -1,3 +1,5 @@
+# Python Program to Merge Two Lists and Sort it
+
 lst1 = []
 lst2 = []
 num1 = int(input("Enter the Number of elements for the List 1: "))
